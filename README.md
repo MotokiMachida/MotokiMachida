@@ -1,16 +1,49 @@
-## Hi there 👋
+# 自己紹介
 
-<!--
-**MotokiMachida/MotokiMachida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 概要
+製造・インフラ業界向けのシステム開発に携わっているエンジニアです。
+C#による業務アプリケーション開発や、コンテナ技術（Docker）を用いた開発環境の構築、クラウドとオンプレミスを組み合わせた業務自動化を得意としています。
 
-Here are some ideas to get you started:
+「現場の負債を技術で解決し、効率化する」ことにやりがいを感じています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 スキルスタック
+
+### Backend / Desktop
+- C# / .NET (データ解析、変換ロジック、自動化ツール開発)
+- VBS / VBA (ECADマクロ改修、Excel業務自動化)
+- SQL Server / Oracle (DB設計、ストアドプロシージャ)
+
+### Infrastructure / Automation
+- Docker / Docker Compose (開発環境の標準化・配布)
+- Power Automate (オンプレミスDBとクラウドのデータ連携設計)
+- Git / SourceTree (複数社間での共同開発、ブランチ管理)
+
+---
+
+## 📈 主な実績
+
+### 1. ECAD図面データ変換ソフトの開発
+-   課題: 手動で行っていた図面データの修正・変換作業の工数削減。
+-   解決: VBSマクロとC#を組み合わせ、多様なパターンの自動化。
+-   成果: 人的ミスを排除し、作業時間を大幅に短縮。
+
+### 2. 3社共同開発におけるDocker環境構築
+-   課題: 複数社が関わるプロジェクトでのPC環境差による動作不備の防止。
+-   解決: Dockerによる共通開発環境の構築とGit運用ルールの策定。
+-   成果: 環境構築コストの削減と、スムーズなチーム開発を実現。
+
+### 3. ハイブリッドクラウド連携の設計
+-   課題: 社内オンプレミスDBとクラウドサービスのデータ分断の解消。
+-   解決: Power Automateとオンプレミスゲートウェイを用いたデータ同期システムの設計。
+-   成果:  既存資産を活かした低コストでのDX化を推進。
+
+---
+
+## 🕹 趣味・興味
+-   対戦格闘ゲーム:   Street Fighter 6 (Dee Jay / Master)
+  - 効率的な上達方法やデータ分析を趣味としても楽しんでいます。
+-   技術の習得:   未経験の技術やSCADA等、新しい分野への挑戦。
+
+---
